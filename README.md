@@ -1,2 +1,2 @@
-# kingHero
-Games of KingHero  desing by Tencent
+# kingHero-nodejs-vuejs
+a game from Tencent
