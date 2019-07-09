@@ -1,2 +1,1 @@
-# kingHero-nodejs-vuejs
-a game from Tencent
+# node-mongodb-vuejs
